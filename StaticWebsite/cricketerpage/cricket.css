@@ -1,0 +1,65 @@
+.cricketbg {
+    background-color: #fb4e71;
+    background-size: cover;
+    padding: 9px;
+
+}
+
+.heading1 {
+    color: #ffffff;
+    margin: 6px;
+    font-size: 27px;
+}
+
+.paragraph1 {
+    color: #ffffff;
+    margin: 6px;
+    font-size: 13px;
+}
+
+.bottom-section {
+    background-color: #e6f6ff;
+    height: 100vh;
+    padding: 10px;
+
+
+}
+
+.heading2 {
+    font-size: 17px;
+    color: #323f4b;
+    font-weight: bold;
+}
+
+.cardbg {
+    background-color: #ffffff;
+    border-radius: 10px;
+}
+
+.heading3 {
+    color: #323f4b;
+    font-size: 10px;
+    margin: 5px;
+}
+
+.paragraph2 {
+    color: #888888;
+    font-size: 12px;
+    margin: 5px;
+}
+
+.heading4 {
+    font-size: 8px;
+    margin: 1px;
+}
+
+.but1 {
+    text-align: center;
+    margin: 10px;
+}
+
+.image {
+    height: 15vh;
+    background-size: cover;
+    margin: 10px;
+}

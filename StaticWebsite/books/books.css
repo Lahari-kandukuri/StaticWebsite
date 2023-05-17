@@ -1,0 +1,105 @@
+.book-store-bg {
+    background-color: #1b1b1b;
+    padding: 10px;
+    background-size: cover;
+} 
+.book-store{
+    background-color: #1b1b1b;
+    padding: 10px;
+    background-size: cover;
+}
+
+h1 {
+    color: #ffffff;
+    font-family: Bree Serif;
+    font-size: 22px;
+}
+
+.bg-apj {
+    background-color: #e6f6ff;
+    border-radius: 10px;
+
+}
+
+.image1 {
+    height: 40vh;
+
+}
+
+.heading1 {
+    color: #183b56;
+    font-size: 15px;
+
+}
+
+.para1 {
+    color: black;
+    font-family: Bree Serif;
+
+}
+
+.para2 {
+
+    font-family: Bree Serif;
+    color: #9aa5b1;
+    font-size: 11px;
+}
+
+.infobg {
+    padding-block-start: 10px;
+    margin-inline-start: 10px;
+}
+
+button {
+    width: 100px;
+
+}
+
+.heading2 {
+    font-size: 18px;
+}
+
+.image2 {
+    height: 25vh;
+    margin-bottom: 10px;
+
+}
+
+#heading3 {
+    font-size: 15px;
+}
+
+h6 {
+    color: #ffffff;
+    font-size: 11px;
+    font-family: Bree Serif;
+
+}
+
+.Chetanbg {
+    padding: 2px;
+    margin-inline-start: 5px;
+}
+
+#image4 {
+    height: 60vh;
+}
+
+#book {
+    text-align: center;
+    padding: 20px;
+}
+
+.para3 {
+    color: #9aa5b1;
+}
+
+p {
+    color: #9aa5b1;
+    font-family: Bree Serif;
+    font-size: 10px;
+}
+
+.text {
+    text-decoration: underline;
+}

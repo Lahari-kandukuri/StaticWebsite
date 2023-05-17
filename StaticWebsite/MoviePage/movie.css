@@ -1,0 +1,42 @@
+.movie-bg {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/orange-color-bg.png");
+    background-size: cover;
+    padding: 10px;
+}
+
+.carouselbg {
+    margin: 10px;
+}
+
+.but1 {
+    height: 30px;
+    width: 110px;
+    font-size: 10px;
+    color: #ff8348;
+    border-radius: 10px;
+    border-width: 0px;
+    font-family: Roboto;
+    margin-inline-start: 40px;
+
+}
+
+.heading1 {
+    color: #ffffff;
+    font-family: Roboto;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.bg {
+    padding: 2px;
+}
+
+p {
+    color: #ffffff;
+    font-size: 11px;
+}
+
+.image1 {
+    margin: 10px;
+    height: 120px;
+}

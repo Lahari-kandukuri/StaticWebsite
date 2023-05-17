@@ -1,0 +1,53 @@
+.conferencebg {
+    height: 50vh;
+    background-size: cover;
+}
+
+.Conferenceelements {
+    text-align: center;
+}
+
+.elementsincon {
+    margin: 20px;
+
+}
+
+.heading1 {
+    color: #183b56;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.heading2 {
+    color: #183b56;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.bottom-part {
+    padding: 10px;
+}
+
+.paragraph1 {
+    color: #5a7184;
+    font-size: 18px;
+}
+
+.but1 {
+    text-align: center;
+}
+
+.heading3 {
+    color: #183b56;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.paragraph3 {
+    color: #5a7184;
+
+}
+
+.paragraph2 {
+    color: #5a7184;
+    font-size: 15px;
